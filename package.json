@@ -1,0 +1,22 @@
+{
+  "name": "4-dars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashhur-dev/nodejs-147-4-dars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashhur-dev/nodejs-147-4-dars/issues"
+  },
+  "homepage": "https://github.com/mashhur-dev/nodejs-147-4-dars#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
